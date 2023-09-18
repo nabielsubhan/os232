@@ -4,7 +4,10 @@ permalink: LINKS/
 
 # LINKS
 
-* [How to Use Vim – Tutorial for Beginners](https://www.freecodecamp.org/news/vim-beginners-guide/) ---
+* [How to Use Vim – Tutorial for Beginners](https://www.freecodecamp.org/news/vim-beginners-guide/)<br>
 Offers valuable information and tips on how to use Vim. You'll find some simple commands for performing various operations in Vim.
-<br>
+* [Cyber Security Supplements](https://www.javatpoint.com/what-is-cyber-security)<br>
+Provides in-depth explanations about cyber security. Get a concise summary on just one website here!
+* [C Tutorial](https://www.tutorialspoint.com/cprogramming/c_overview.htm)<br>
+Summary for C language material. Easy to understand, well-structured, and comprehensive.
 <hr>
