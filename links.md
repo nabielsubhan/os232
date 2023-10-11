@@ -14,4 +14,6 @@ Summary for C language material. Easy to understand, well-structured, and compre
 Key points in File Systems. File access mechanism, space allocation, etc.
 * [Memory Management Overview](https://phoenixnap.com/kb/memory-management)<br>
 This article explains how memory management works in operating systems. It covers topics such as memory unit organization, memory access, and memory management techniques.
+* [What is Virtual Memory](https://www.youtube.com/watch?v=wuakWE44_ZA)<br>
+This video will discuss in general what virtual memory is, how it works, and what its function is.
 <hr>
