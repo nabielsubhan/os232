@@ -51,3 +51,11 @@ ZCZC W05 15 L41 TXT/mylog.txt related.
 ZCZC W05 20 L43 TXT/myrank.tex related, including peer review.
 ZCZC W05 180 L88 Workout/Sport/Exercise/ETC.
 ZCZC W05 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W06 195 L05 Quiz related including studying
+ZCZC W06 90 L09 Assignment in General
+ZCZC W06 5 L25 C-language including Make.
+ZCZC W06 30 L40 TXT/ related in general.
+ZCZC W06 10 L41 TXT/mylog.txt related.
+ZCZC W06 15 L43 TXT/myrank.tex related, including peer review.
