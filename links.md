@@ -18,7 +18,6 @@ This article explains how memory management works in operating systems. It cover
 This video will discuss in general what virtual memory is, how it works, and what its function is.
 * [Concurrency](https://eng.libretexts.org/Courses/Delta_College/Operating_System%3A_The_Basics/05%3A_Process_Synchronization/5.1%3A_Introduction_to_Concurrency)<br>
 A concise overview of concurrency, exploring issues, benefits, limitations, and more.
-https://www.youtube.com/watch?v=4kfiQEA7Qj8
 * [Threads in operating systems](https://www.youtube.com/watch?v=4kfiQEA7Qj8)<br>
 Threads in general. Covers single-threaded, multi-threaded, advantages, etc.
 <hr>
