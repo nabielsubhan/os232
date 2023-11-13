@@ -20,4 +20,6 @@ This video will discuss in general what virtual memory is, how it works, and wha
 A concise overview of concurrency, exploring issues, benefits, limitations, and more.
 * [Threads in operating systems](https://www.youtube.com/watch?v=4kfiQEA7Qj8)<br>
 Threads in general. Covers single-threaded, multi-threaded, advantages, etc.
+* [Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
+Covers the fundamentar of synchronization process, critical-section, synchronization mechanisms, etc.
 <hr>
