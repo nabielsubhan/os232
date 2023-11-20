@@ -22,4 +22,6 @@ A concise overview of concurrency, exploring issues, benefits, limitations, and 
 Threads in general. Covers single-threaded, multi-threaded, advantages, etc.
 * [Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
 Covers the fundamentar of synchronization process, critical-section, synchronization mechanisms, etc.
+* [CPU Scheduling](https://testbook.com/operating-system/cpu-scheduling-in-os)<br>
+Explains the basic concepts of CPU Scheduling, CPU Scheduling algorithm, etc.
 <hr>
