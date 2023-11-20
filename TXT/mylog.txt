@@ -67,3 +67,10 @@ ZCZC W07 25 L40 TXT/ related in general.
 ZCZC W07 5 L41 TXT/mylog.txt related.
 ZCZC W07 15 L43 TXT/myrank.tex related, including peer review.
 ZCZC W07 5 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W08 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W08 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W08 5 L41 TXT/mylog.txt related.
+ZCZC W08 60 L05 Quiz related including studying
+ZCZC W08 60 L09 Assignment in General
+ZCZC W08 20 L40 TXT/ related in general.
+ZCZC W08 15 L43 TXT/myrank.tex related, including peer review.
