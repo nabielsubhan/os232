@@ -24,4 +24,6 @@ Threads in general. Covers single-threaded, multi-threaded, advantages, etc.
 Covers the fundamentar of synchronization process, critical-section, synchronization mechanisms, etc.
 * [CPU Scheduling](https://testbook.com/operating-system/cpu-scheduling-in-os)<br>
 Explains the basic concepts of CPU Scheduling, CPU Scheduling algorithm, etc.
+* [Kernotex's LFS playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315)<br>
+A playlist of videos that greatly helps you in working on Linux From Scratch.
 <hr>
